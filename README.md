@@ -58,7 +58,7 @@ If one of the computers were reported by one of the employees as defective, what
 
 Q11. What text is encoded in the image? (Hint: load the image, look at the pixel values and think creatively). Image is Cat_Image.png in folder.
 
-I could solve this. So I used my intuition and picked 'I lovve Kittens' because that was the odd one. The other options were names of AI researchers.
+I couldn't solve this. I tried using stepic Python library but got 'y' as result. So I used my intuition and picked 'I lovve Kittens' because that was the odd one. The other options were names of AI researchers.
 
 
 Q12. A dataset of training and test data (i.e. "heart_training_data.csv", "heart_test_data.csv") contains demographic and medical data of a set of patients. There are multiple features which include ID: is a unique identifier for each patient. sex:: the patient's gender, age: the patient's age and a number of other categorical and numerical variables, some of which will need to be cleaned. Use the training data to create a model using logistic regression that will predict whether a patient has a disease (target=1) or not (target=0). Applying the model to the test set, which of the following is closest to your answer?
