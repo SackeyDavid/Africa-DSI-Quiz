@@ -79,6 +79,7 @@ Replace any NaNs with 0 and strip any non-numeric characters. E.g. ‘1,23%4’ 
 The answer is 3, check DataClean.ipynb for solution.
 
 
-Q14. What is the area of the shaded region? You only know the length indicated. There is a solution (image is Q14.png). I solved this using intuition based on observation and hand rule measurements. 
+Q14. What is the area of the shaded region? You only know the length indicated. There is a solution (image is Q14.png). 
 
+I solved this using intuition based on observation and hand rule measurements. 
 I observed that the radius of the circle quadrant was 15 andd that of the inner circle was 4.5. Area is (pi(15)**2)/4 - pi(4.5)**2. I obtained 36pi 
