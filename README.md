@@ -7,7 +7,7 @@ Write code to count how many integers are strictly larger than all the integers 
 If link is broken use X in Q1.ipynb file 
 
 
-Q2. This was a brain teaser question available here and brainly https://brainly.in/question/19781664
+Q2. This was a brain teaser question available here on brainly https://brainly.in/question/19781664
 
 
 Q3. Consider the binomial model, where the variable X is the total number of failures from a set of N produced electronic components. Let p be the probability of a failure and x the number of failures during a one year observation period. What is the standard deviation of the maximum likelihood estimator given that there were 37 failures observed out of a group of 840 electronic components during the one year observation period? 
