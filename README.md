@@ -1,5 +1,5 @@
 # Africa-DSI-Quiz. 
-Here are the solutions, python codes I wrote to answer some of the questions in the Round 2 of the Quiz. Unfortunately, I couldn't save the questions before the quiz submission link closed. For the solutions involving code, The Jupyter Notebook files will better explain what my solutions were. All questions were multiple choice.
+Here are the solutions, python codes I wrote to answer some of the questions in the Round 2 of the Quiz. Unfortunately, I couldn't save the questions before the quiz submission link closed. For the solutions involving code, the Jupyter Notebook files will better explain what my solutions were. All questions were multiple choice.
 
 Q1. Given the list of integers, X, https://www.google.com/url?q=https://docs.google.com/document/d/1TjeNYpZ_PbdBISlJPF-_WqULBc1WpuYthLClovjB3Rs/edit?usp%3Dsharing&sa=D&ust=1594968749928000&usg=AFQjCNG8bAv1lX8pXr4CYcgaDfYFxcbgCg. 
 Write code to count how many integers are strictly larger than all the integers to their right excluding the last digit since it doesn’t have a number to its right. E.g. for [2,3,1] the answer should be 1 while for [12,4,4,2,2,3] the answer is 2.  
@@ -79,6 +79,6 @@ Replace any NaNs with 0 and strip any non-numeric characters. E.g. ‘1,23%4’ 
 The answer is 3, check DataClean.ipynb for solution.
 
 
-Q14. What is the area of the shaded region? You only know the length indicated. There is a solution (image is Q13.png). I solved this using intuition based on observation and hand rule measurements. 
+Q14. What is the area of the shaded region? You only know the length indicated. There is a solution (image is Q14.png). I solved this using intuition based on observation and hand rule measurements. 
 
 I observed that the radius of the circle quadrant was 15 andd that of the inner circle was 4.5. Area is (pi(15)**2)/4 - pi(4.5)**2. I obtained 36pi 
