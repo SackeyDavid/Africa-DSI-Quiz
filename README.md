@@ -1,0 +1,1 @@
+# Africa-DSI-Quiz. Here are the python codes I wrote to answer some of the questions in the Round 2 of the Quiz. Unfortunately, I couldn't save the questions before the quiz submission link closed. The IPYNB files will better suggest what the questions were.
