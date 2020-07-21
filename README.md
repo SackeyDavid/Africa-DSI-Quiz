@@ -1,5 +1,5 @@
 # Africa-DSI-Quiz. 
-Here are the solutions, python codes I wrote to answer some of the questions in the Round 2 of the Quiz. Unfortunately, I couldn't save the questions before the quiz submission link closed. For the solutions involving code, the Jupyter Notebook files will better explain what my solutions were. All questions were multiple choice.
+Here are my solutions, python codes I wrote to answer some of the questions in the Round 2 of the Quiz. Unfortunately, I couldn't save the questions before the quiz submission link closed. For the solutions involving code, the Jupyter Notebook files will better explain what my solutions were. All questions were multiple choice.
 
 Q1. Given the list of integers, X, https://www.google.com/url?q=https://docs.google.com/document/d/1TjeNYpZ_PbdBISlJPF-_WqULBc1WpuYthLClovjB3Rs/edit?usp%3Dsharing&sa=D&ust=1594968749928000&usg=AFQjCNG8bAv1lX8pXr4CYcgaDfYFxcbgCg. 
 Write code to count how many integers are strictly larger than all the integers to their right excluding the last digit since it doesn’t have a number to its right. E.g. for [2,3,1] the answer should be 1 while for [12,4,4,2,2,3] the answer is 2.  
